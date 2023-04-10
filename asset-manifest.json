@@ -1,0 +1,13 @@
+{
+  "files": {
+    "main.css": "/React_Contact_Manager/static/css/main.8c10b297.css",
+    "main.js": "/React_Contact_Manager/static/js/main.3eac6b1b.js",
+    "index.html": "/React_Contact_Manager/index.html",
+    "main.8c10b297.css.map": "/React_Contact_Manager/static/css/main.8c10b297.css.map",
+    "main.3eac6b1b.js.map": "/React_Contact_Manager/static/js/main.3eac6b1b.js.map"
+  },
+  "entrypoints": [
+    "static/css/main.8c10b297.css",
+    "static/js/main.3eac6b1b.js"
+  ]
+}
